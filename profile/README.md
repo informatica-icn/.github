@@ -46,7 +46,7 @@ Nuestros conjuntos de datos están disponibles en formatos estándar como **Darw
 ## 📫 Contacto
 
 Para más información, visita nuestro portal: [biovirtual.unal.edu.co](http://www.biovirtual.unal.edu.co/es/), consulta el [perfil del ICN en el SiB Colombia](https://biodiversidad.co/post/2013/taller-herramientas-inform%C3%A1ticas-colecciones/)
-O por correo electrónico informaticaicn at gmail.com
+O por correo electrónico informatica_icn at gmail.com
 
 ---
 
